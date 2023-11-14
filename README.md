@@ -1,1 +1,3 @@
 # RestaurantManagement
+
+A sample project
